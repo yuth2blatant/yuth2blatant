@@ -53,11 +53,11 @@
         "Remote": "MAINEVENT",
         "Argument": "MOUSE"
     },
-    "15166543806": {
+    "106905088242044": {
         "Number": 10,
         "Name": "Moon Hood",
         "Remote": "MAINEVENT",
-        "Argument": "MoonUpdateMousePos"
+        "Argument": "UpdateMousePos"
     },
     "17319408836": {
         "Number": 10,
