@@ -23,13 +23,13 @@
         "Remote": "MAINEVENT",
         "Argument": "MOUSE"
     },
-    "17403166075": {
+    "132023669786646": {
         "Number": 5,
         "Name": "Da Bank",
         "Remote": "MAINEVENT",
         "Argument": "MOUSE"
     },
-    "17403262882": {
+    "84366677940861": {
         "Number": 6,
         "Name": "Da Uphill",
         "Remote": "MAINEVENT",
@@ -65,5 +65,11 @@
         "Remote": "MAINEVENT",
         "Argument": "UpdateMousePos",
         "Adonis": true
+    },
+    "18121942633": {
+        "Number": 4,
+        "Name": "Dah Aim Trainer",
+        "Remote": "MAINEVENT",
+        "Argument": "UpdateMousePos"
     }
 }
