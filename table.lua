@@ -15,7 +15,7 @@
 
 getgenv().Settings = {
 
-    ["Luarmor Key"] = ("YOUR_KEY_HERE"),
+    ["Luarmor Key"] = ("pIbdaxNdDjfWpYfLVBrnfrMhVzUgUBKi"),
 
     ["General"] = {
         ["Enabled"] = (true),
@@ -203,3 +203,6 @@ getgenv().Settings = {
         ["Inject Only When Window Is Focussed"] = (false), -- this will make the script only load when the roblox window is NOT focussed
     },
 }
+
+
+script_key = Settings["Luarmor Key"];
